@@ -220,4 +220,4 @@ Duplicati is available as a full free version, offering all features and updates
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-10 01:22:37 UTC
+**Last updated:** 2026-10-10 07:50:58 UTC
